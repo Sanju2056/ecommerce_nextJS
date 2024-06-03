@@ -1,6 +1,3 @@
-import BackgroundImage from "./background.png"
-import CancelImage from "./cancel.png"
-export {
-    BackgroundImage,
-    CancelImage
-}
+import CancelImage from "./cancel.png";
+import Background from "./hello.jpg"
+export { CancelImage, Background };
