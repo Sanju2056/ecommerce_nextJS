@@ -1,6 +1,5 @@
 import {
   ApplePayImage,
-  ArrowRightImage,
   MasterCardImage,
   PayPalImage,
   VisaImage,
@@ -54,7 +53,7 @@ const Footer = () => {
           <p className="font-bold">GET IN THE KNOW</p>
           <div className="flex items-center md:gap-2 md:mt-8">
             <input
-              className="h-10 w-full md:w-40 lg:w-full border-b-[1px] border-gray-600
+              className="h-10 w-2/3 md:w-40 lg:w-full border-b-[1px] border-gray-600
             outline-none bg-[#f7f7f7] pl-1 "
               placeholder="Enter email"
             />
