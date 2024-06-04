@@ -54,7 +54,7 @@ const TopSeller = () => {
           ))}
         </div>
       </div>
-      <div className="px-8 py-4 cursor-pointer bg-[#2e2e2e] text-white">
+      <div className="px-8 py-4 cursor-pointer bg-[#024E82] text-white">
         SHOP NOW    
       </div>
     </div>
