@@ -1,5 +1,6 @@
 import { CrossImage, Shirt } from "@/assets/images";
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const page = () => {
@@ -64,21 +65,24 @@ const page = () => {
           <p className="text-3xl font-semibold">Cart Totals</p>
           <div className="w-full md:w-[500px]">
             <div className="flex items-center py-4 justify-between text-[#555555]">
-            <p>Subtotal</p>
-            <p>$59.00</p>
+              <p>Subtotal</p>
+              <p>$59.00</p>
             </div>
             <div className="border-y-[1px] border-gray-200 py-4 flex items-center text-[#555555] justify-between">
-            <p>Shipping Free</p>
-            <p>FREE!!!!!</p>
+              <p>Shipping Free</p>
+              <p>FREE!!!!!</p>
             </div>
             <div className="py-4 flex font-bold items-center  justify-between text-[#1D1D1D]">
-            <p>Total</p>
-            <p>$59.00</p>
+              <p>Total</p>
+              <p>$59.00</p>
             </div>
           </div>
+          <Link href={'./checkout'}>
           <div className="px-8 py-4 cursor-pointer bg-[#D6763C] text-white max-content w-max">
-          PROCEED TO CHECKOUT  
-      </div>
+            PROCEED TO CHECKOUT
+          </div>
+          </Link>
+         
         </div>
       </div>
     </div>
