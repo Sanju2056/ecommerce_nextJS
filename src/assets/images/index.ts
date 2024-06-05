@@ -10,5 +10,6 @@ import StarImage from "./star-48.png"
 import ArrowDownImage from "./arrow-down-32.png"
 import EmailImage from "./email-48.png"
 import ArrowUpImage from "./arrow-up-50.png"
-export { ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
+import ContactUsImage from "./contactuss.jpg"
+export { ContactUsImage,ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
 
