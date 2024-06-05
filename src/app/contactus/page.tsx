@@ -27,7 +27,7 @@ const page = () => {
           CONTACT US
         </p>
       </div>
-      <div className="container flex flex-col md:flex-row gap-12 pb-14 md:pb-20 ">
+      <div className="container flex flex-col md:flex-row gap-12  pb-14 md:pb-20 ">
         <div className="flex gap-6 flex-col flex-1 md:w-2/3">
           <p className="text-2xl font-semibold text-[#3A3A39]">
             We would love to hear from you.

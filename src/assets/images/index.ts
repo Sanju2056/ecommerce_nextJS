@@ -11,5 +11,6 @@ import ArrowDownImage from "./arrow-down-32.png"
 import EmailImage from "./email-48.png"
 import ArrowUpImage from "./arrow-up-50.png"
 import ContactUsImage from "./contactuss.jpg"
-export { ContactUsImage,ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
+import CrossImage from "./cross-50.png"
+export { CrossImage,ContactUsImage,ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
 
