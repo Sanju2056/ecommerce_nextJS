@@ -9,5 +9,8 @@ import ArrowRightImage from "./arrow-right-50.png"
 import StarImage from "./star-48.png"
 import ArrowDownImage from "./arrow-down-32.png"
 import EmailImage from "./email-48.png"
-export { EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
+import ArrowUpImage from "./arrow-up-50.png"
+import ContactUsImage from "./contactuss.jpg"
+import CrossImage from "./cross-50.png"
+export { CrossImage,ContactUsImage,ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
 

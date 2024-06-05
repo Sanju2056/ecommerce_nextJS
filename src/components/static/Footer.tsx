@@ -72,7 +72,7 @@ const Footer = () => {
         <div className="flex gap-8 items-center">
           {icons.map((item, index) => {
             return (
-              <div className={`h-12 w-12  flex items-center justify-center `}>
+              <div key={index} className={`h-12 w-12  flex items-center justify-center `}>
                 <Image
                   src={item.image}
                   alt={item.alt}
