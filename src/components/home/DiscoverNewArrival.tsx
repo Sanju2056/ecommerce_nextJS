@@ -62,7 +62,7 @@ const DiscoverNewArrival = () => {
       <div className="w-full overflow-x-auto md:overflow-x-visible ">
         <div className="flex flex-nowrap md:grid md:grid-cols-3 lg:grid-cols-4 gap-8">
           {data.map((item, index) => (
-            <div key={index} className="flex flex-col h-max gap-2 min-w-[200px] rounded shadow  overflow-hidden">
+            <div key={index} className="flex flex-col h-max gap-2 min-w-[200px] rounded shadow  overflow-hidden cursor-pointer">
               <div className="flex items-center justify-center">
                 <Image
                   src={item.image}
