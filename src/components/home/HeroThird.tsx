@@ -56,7 +56,7 @@ const HeroThird = () => {
               with a peace of mind.
             </p>
           </div>
-          <div className="px-8  py-2 bg-white">BUY NOW</div>
+          <div className="px-8  py-2 bg-white cursor-pointer">BUY NOW</div>
         </div>
         <div
           className="flex-1 bg-[#000] flex items-center
@@ -68,7 +68,7 @@ const HeroThird = () => {
             End of season sale. Buy any 2 items of your choice and get 1 free.
             </p>
           </div>
-          <div className="px-8  py-2 bg-white">BUY NOW</div>
+          <div className="px-8  py-2 bg-white cursor-pointer">BUY NOW</div>
         </div>
       </div>
     </div>

@@ -12,5 +12,11 @@ import EmailImage from "./email-48.png"
 import ArrowUpImage from "./arrow-up-50.png"
 import ContactUsImage from "./contactuss.jpg"
 import CrossImage from "./cross-50.png"
-export { CrossImage,ContactUsImage,ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
+import AboutUsImage from "./aboutus.jpg"
+import AboutUsProfile1 from "./aboutus1.png"
+import AboutUsProfile2 from "./aboutus2.png"
+import DhakalImage from "./dhakal.jpg"
+import RajuImage from "./raju.jpg"
+import GuddiImage from "./guddi.jpg"
+export {DhakalImage,RajuImage,GuddiImage, AboutUsProfile1,AboutUsProfile2,AboutUsImage,CrossImage,ContactUsImage,ArrowUpImage,EmailImage,CancelImage, Background,Shirt,VisaImage,MasterCardImage,PayPalImage,ApplePayImage,ArrowRightImage,StarImage,ArrowDownImage };
 
